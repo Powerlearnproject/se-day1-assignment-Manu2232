@@ -54,5 +54,6 @@ Why It’s Better:
 1.	Clear: The task is straightforward. Write a blog post with a specific title and purpose.
 2.	Specific: It lists exact points to cover (time-blocking, reducing distractions, setting goals) and defines the tone (friendly and actionable).
 3.	Concise: It’s short and to the point, avoiding unnecessary details while providing all the essential information.
+   
 
 
