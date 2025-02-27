@@ -42,11 +42,17 @@ Unit testing involves testing individuals components of code, such as functions 
 Integration testing focuses on testing the interactions between different components of the software to ensure the work together as intended. This validates the interfaces and interactions between components, ensuring they integrate seamlessly.
 System Testing involves tesing the complete and integrated software system to ensure it meets the specified requirements. This validates the entire sytem's functionality, performance and security.
 Acceptance Testing is final level of testing performed to verify that the software meets the business requirements and is ready for release. It ensures that the software meets the user's needs and requirements. It also provides valuable feedback from end-users, which can be used to make final adjustments and improvements
-
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering involves creating specific and well-structured queries that provide context and instructions to the AI model. By carefully designing these prompts, users can influence the model's output to better align with their expectation and requirements.
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt:
+"Write something about productivity."
+Improved Prompt:
+"Write a 300-word blog post titled '3 Tips to Boost Productivity While Working from Home.' Include these points: 1) time-blocking for focus, 2) reducing distractions, and 3) setting daily goals. Use a friendly tone and keep it actionable."
+Why It’s Better:
+1.	Clear: The task is straightforward. Write a blog post with a specific title and purpose.
+2.	Specific: It lists exact points to cover (time-blocking, reducing distractions, setting goals) and defines the tone (friendly and actionable).
+3.	Concise: It’s short and to the point, avoiding unnecessary details while providing all the essential information.
+
+
